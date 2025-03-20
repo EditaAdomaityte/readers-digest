@@ -1,0 +1,122 @@
+[
+    {
+      "model": "clientapi.book",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "isbn_number": "9780132350884",
+        "cover_image": "https://example.com/covers/clean_code.jpg",
+        "categories": [1,2]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "title": "The Pragmatic Programmer: Your Journey to Mastery",
+        "author": "Andrew Hunt & David Thomas",
+        "isbn_number": "9780201616224",
+        "cover_image": "https://example.com/covers/pragmatic_programmer.jpg",
+        "categories": [2,4]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 3,
+      "fields": {
+        "user": 3,
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "isbn_number": "9780596517748",
+        "cover_image": "https://example.com/covers/js_good_parts.jpg",
+        "categories": [1,5]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 4,
+      "fields": {
+        "user": 4,
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "isbn_number": "9781593279288",
+        "cover_image": "https://example.com/covers/python_crash.jpg",
+        "categories": [1,3]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 5,
+      "fields": {
+        "user": 5,
+        "title": "Grokking Algorithms",
+        "author": "Aditya Bhargava",
+        "isbn_number": "9781617292231",
+        "cover_image": "https://example.com/covers/grokking.jpg",
+        "categories": [1,4]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 6,
+      "fields": {
+        "user": 6,
+        "title": "Code: The Hidden Language of Computer Hardware and Software",
+        "author": "Charles Petzold",
+        "isbn_number": "9780735611313",
+        "cover_image": "https://example.com/covers/code_hidden.jpg",
+        "categories": [4,2]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 7,
+      "fields": {
+        "user": 1,
+        "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+        "author": "Marijn Haverbeke",
+        "isbn_number": "9781593279509",
+        "cover_image": "https://example.com/covers/eloquent_js.jpg",
+        "categories": [3,5]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 8,
+      "fields": {
+        "user": 2,
+        "title": "Head First Design Patterns",
+        "author": "Eric Freeman & Elisabeth Robson",
+        "isbn_number": "9780596007126",
+        "cover_image": "https://example.com/covers/head_first.jpg",
+        "categories": [1,2]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 9,
+      "fields": {
+        "user": 3,
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "isbn_number": "9781491924464",
+        "cover_image": "https://example.com/covers/dont_know_js.jpg",
+        "categories": [3,5]
+      }
+    },
+    {
+      "model": "clientapi.book",
+      "pk": 10,
+      "fields": {
+        "user": 4,
+        "title": "Two Scoops of Django: Best Practices for Django",
+        "author": "Daniel Roy Greenfeld & Audrey Roy Greenfeld",
+        "isbn_number": "9780981467344",
+        "cover_image": "https://example.com/covers/two_scoops.jpg",
+        "categories": [1,3]
+      }
+    }
+  ]
