@@ -1,0 +1,112 @@
+[
+    {
+        "model": "clientapi.review",
+        "pk": 1,
+        "fields": {
+            "book": 1,
+            "user": 1,
+            "rating": 4,
+            "comment": "Great book, really enjoyed it!",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 2,
+        "fields": {
+            "book": 2,
+            "user": 2,
+            "rating": 5,
+            "comment": "Amazing storyline and characters.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 3,
+        "fields": {
+            "book": 3,
+            "user": 3,
+            "rating": 3,
+            "comment": "It was a good read, but some parts were slow.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 4,
+        "fields": {
+            "book": 4,
+            "user": 4,
+            "rating": 2,
+            "comment": "Didn't really enjoy this one. Felt a bit predictable.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 5,
+        "fields": {
+            "book": 5,
+            "user": 5,
+            "rating": 4,
+            "comment": "Good book overall, but could have been shorter.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 6,
+        "fields": {
+            "book": 6,
+            "user": 1,
+            "rating": 5,
+            "comment": "Absolutely loved it! One of my favorites.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 7,
+        "fields": {
+            "book": 7,
+            "user": 2,
+            "rating": 4,
+            "comment": "Very engaging, would recommend to friends.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 8,
+        "fields": {
+            "book": 8,
+            "user": 3,
+            "rating": 1,
+            "comment": "Couldn't get into it at all. Not for me.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 9,
+        "fields": {
+            "book": 9,
+            "user": 4,
+            "rating": 3,
+            "comment": "Decent, but felt like it dragged in some places.",
+            "created_on": "2025-03-21"
+        }
+    },
+    {
+        "model": "clientapi.review",
+        "pk": 10,
+        "fields": {
+            "book": 10,
+            "user": 5,
+            "rating": 5,
+            "comment": "An excellent book. Can't wait for the next one in the series!",
+            "created_on": "2025-03-21"
+        }
+    }
+]
